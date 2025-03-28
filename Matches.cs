@@ -26,7 +26,7 @@ public class Matches
             StoryElements.OpenDoor_matches();
             return "continue";
         }
-        else if(player_choice == "ascend")
+        else if(player_choice == "follow")
         {
             StoryElements.Hallway();
             return "continue";
