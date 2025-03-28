@@ -6,9 +6,7 @@ The program runs an intro to a story I created and then prompts the user for a c
 
 The main purpose of this software was to push myself and my knowledge of C#. I have a passion for video games and this gives me a very small taste of what I could expect if I continue to pursue game development.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/52GD09Wu9cw)
 
 # Development Environment
 
